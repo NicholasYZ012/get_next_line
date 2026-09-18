@@ -6,11 +6,11 @@
 /*   By: nilim <nilim@student.42kl.edu.my>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/08/24 12:11:51 by nilim             #+#    #+#             */
-/*   Updated: 2026/08/29 11:29:50 by nilim            ###   ########.fr       */
+/*   Updated: 2026/09/18 10:16:58 by nilim            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 #include <unistd.h>
 #include <stdlib.h>
 
